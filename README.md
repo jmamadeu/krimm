@@ -1,15 +1,15 @@
 <h1 align="center">
-  <img src="https://images.ctfassets.net/oa5d2j3vsvog/7bOhm9G5wZe3RxxLeF9Wgv/9c547798980c40fcab32f06814fdf6a6/Horizontal_Version_1_.png?w=400&h=102&q=50&fm=png"  />
+  ReactJS Boilerplate
 </h1>
 
 <p align="center">
 
-Ready for the next Crypto Revolution ? Join the Spaceship.
+
 
 </p>
 
 <h4 align="center"> 
-	🚧 Spaceman LOL - Landing...  🚧
+	🚧 Boilerplate 🚧
 </h4>
 
 ## :construction_worker: Installation
@@ -23,8 +23,8 @@ You will need to install
 
 ```bash
 
-$ git clone https://github.com/syllena/spaceman-v2.git # Clone this repository to your machine
-$ cd spaceman-v2-landing-page # Enter in the project folder
+$ git clone https://github.com/jmamadeu/krimm.git # Clone this repository to your machine
+$ cd krimm # Enter in the project folder
 $ yarn # Install all dependencies
 
 $ yarn dev # Running the project
